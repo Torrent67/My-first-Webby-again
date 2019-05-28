@@ -1,11 +1,11 @@
-# _{Practice Web Pages}_
+# _Practice Web Pages_
 
-#### _{Practice web pages for Epicodus}, {May 28th, 2019}_
+#### _Practice web pages for Epicodus, May 28th, 2019_
 
-#### By _**{Marqis Ramos & Trevor Teigen}**_
+#### By _**Marqis Ramos & Trevor Teigen**_
 
 ## Description
-_{These webpages were designed as practice lessons for indentation, formatting, images, and inline elements.}_
+_These webpages were designed as practice lessons for indentation, formatting, images, and inline elements._
 
 ## Setup/Installation Requirements
 
@@ -13,18 +13,18 @@ _{These webpages were designed as practice lessons for indentation, formatting, 
 
 ## Known Bugs
 
-_{None probably}_
+_None probably_
 
 ## Support and Contact details
 
-_{You're on your own}_
+_You're on your own_
 
 ## Technologies Used
 
-_{Lessons provided by Epicodus and terminal E1}_
+_Lessons provided by Epicodus and terminal E1_
 
 ### License
 
 *{MIT}*
 
-Copyright (c) 2019 **_{Marqis Ramos and Trevor Teigen}_**
+Copyright (c) 2019 **_Marqis Ramos and Trevor Teigen_**

@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  font-style: oblique;
+  font-family: cursive;
+  font-size: 80px;
+  color: #c657b0;
+  text-decoration: underline;
+  text-decoration-color: #af2b0e;
+}
+body {
+  background-image: url("https://tinyurl.com/y25dgsre");
+  background-size: cover;
+  color:#1500ff;
+  font-size: 40px;
+}
+em {
+  font-size: 20px;
+}
+ol {
+  font-family: monospace;
+  font-variant: small-caps;
+}
+strong {
+  color: red;
+  text-shadow: 2px 2px white;
+}
